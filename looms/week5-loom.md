@@ -1,4 +1,4 @@
-# JavaScript, Important JS for React
+# HTML/CSS/JavaScript
 
 # REMINDER: You must record your screen as well with this prompt on the foreground.
 
